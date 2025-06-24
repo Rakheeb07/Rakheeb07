@@ -1,6 +1,3 @@
-<img src="https://img.freepik.com/free-photo/laptop-with-glowing-screen-table-dark-top-view-copy-space_169016-51607.jpg?semt=ais_hybrid&w=740" alt="Laptop on table" width="100%">
-
-
 <h1 align="center">Hi 👋, I'm ABDUL RAKHEEB</h1>
 <h3 align="center">A Passionate Full Stack Web Developer from India</h3>
 
