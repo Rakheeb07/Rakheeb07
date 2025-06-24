@@ -1,12 +1,10 @@
+![banner](https://user-images.githubusercontent.com/74038190/239136742-f04a6fd3-d25e-4d6b-9b5b-43d5adced214.png)
+
 <h1 align="center">Hi 👋, I'm ABDUL RAKHEEB</h1>
 <h3 align="center">A Passionate Full Stack Web Developer from India</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding-gif"/>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/239136742-f04a6fd3-d25e-4d6b-9b5b-43d5adced214.png" alt="banner" width="100%"/>
 </p>
 
 <p align="left"> 
