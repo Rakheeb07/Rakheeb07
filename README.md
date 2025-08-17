@@ -63,6 +63,12 @@
 
 ---
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rakheeb07&show_icons=true&locale=en" alt="rakheeb07" />
 </p>
